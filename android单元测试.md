@@ -10,6 +10,8 @@ http://s17.mogucdn.com/new1/v1/bmisc/8e35bea4d4af0b7816e0dce0f0d39024/1751077433
 ```
 该系列文章源码github地址:android-unit-testing-tutorial
 https://github.com/ChrisZou/android-unit-testing-tutorial
+robolectric框架demo地址:robolectric-demo
+https://github.com/ChrisZou/robolectric-demo
 ```
 ```
 Android单元测试: 首先，从是什么开始
