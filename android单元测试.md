@@ -4,6 +4,12 @@
 ```
 关于安卓单元测试，你需要知道的一切
 http://chriszou.com/2016/06/07/android-unit-testing-everything-you-need-to-know.html
+演讲PPT链接
+http://s17.mogucdn.com/new1/v1/bmisc/8e35bea4d4af0b7816e0dce0f0d39024/175107743310.pdf
+```
+```
+该系列文章源码github地址:android-unit-testing-tutorial
+https://github.com/ChrisZou/android-unit-testing-tutorial
 ```
 ```
 Android单元测试: 首先，从是什么开始
