@@ -6,6 +6,8 @@ android 知识库，干货分享 </br>
 
 ##**[android布局适配](https://github.com/zhaozepeng/Android-Knowledge-Base/blob/master/android%E5%B8%83%E5%B1%80%E9%80%82%E9%85%8D.md)**##
 
+##**[android单元测试](https://github.com/zhaozepeng/Android-Knowledge-Base/blob/master/android%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.md)**##
+
 ##**[android混淆打包发布](https://github.com/zhaozepeng/Android-Knowledge-Base/blob/master/android%E6%B7%B7%E6%B7%86%E6%89%93%E5%8C%85%E5%8F%91%E5%B8%83.md)**##
 
 ##**[java 相关知识](https://github.com/zhaozepeng/Android-Knowledge-Base/blob/master/java%20%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86.md)**##
