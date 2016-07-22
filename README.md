@@ -13,3 +13,5 @@ android 知识库，干货分享 </br>
 ##**[java 相关知识](https://github.com/zhaozepeng/Android-Knowledge-Base/blob/master/java%20%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86.md)**##
 
 ##**[设计模式](https://github.com/zhaozepeng/Android-Knowledge-Base/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)**##
+
+##**[Android Matrix](https://github.com/zhaozepeng/Android-Knowledge-Base/blob/master/Android%20Matrix.md)**##
