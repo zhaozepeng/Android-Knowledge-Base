@@ -15,6 +15,10 @@ https://developer.android.com/training/testing/ui-testing/uiautomator-testing.ht
 AndroidJUnitRunner文档
 https://developer.android.com/topic/libraries/testing-support-library/index.html#AndroidJUnitRunner
 ```
+```
+Android Testing Samples
+https://google.github.io/android-testing-support-library/samples/index.html
+```
 
 ### 小创的单元测试系列文章
 ```
