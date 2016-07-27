@@ -15,3 +15,5 @@ android 知识库，干货分享 </br>
 ##**[设计模式](https://github.com/zhaozepeng/Android-Knowledge-Base/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)**##
 
 ##**[Android Matrix](https://github.com/zhaozepeng/Android-Knowledge-Base/blob/master/Android%20Matrix.md)**##
+
+##**[Android studio 配置详细介绍](https://github.com/zhaozepeng/Android-Knowledge-Base/blob/master/android%20studio.md)**##
