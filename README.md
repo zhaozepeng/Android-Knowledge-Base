@@ -1,4 +1,4 @@
-# Android-Knowledge-Base
+﻿# Android-Knowledge-Base
 android 知识库，干货分享 </br>
 **来自 android 技术交流 544645972**
 
@@ -17,3 +17,5 @@ android 知识库，干货分享 </br>
 ##**[Android Matrix](https://github.com/zhaozepeng/Android-Knowledge-Base/blob/master/Android%20Matrix.md)**##
 
 ##**[Android studio 配置详细介绍](https://github.com/zhaozepeng/Android-Knowledge-Base/blob/master/android%20studio.md)**##
+
+##**[Android 项目重构](https://github.com/zhaozepeng/Android-Knowledge-Base/blob/master/android%E9%A1%B9%E7%9B%AE%E9%87%8D%E6%9E%84.md)**##
